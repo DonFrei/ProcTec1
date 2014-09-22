@@ -4,3 +4,5 @@ Mars
 this is not very hard.
 
 bla bla
+
+player2 entered stage
